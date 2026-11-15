@@ -1,0 +1,1 @@
+import{r as a}from"./index-DEacs6bA.js";const e=typeof window<"u"?window.matchMedia("(max-width: 768px)"):null,i=a(e?e.matches:!1);if(e){const n=t=>{i.value=t.matches};e.addEventListener?e.addEventListener("change",n):e.addListener(n)}export{i};
